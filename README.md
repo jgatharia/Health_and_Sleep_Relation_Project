@@ -58,7 +58,7 @@ Sleep Disorder Distribution Across Gender
 
 **Observations**
 
-Females are six times more likely to report Sleep Apnea than males. 
+* Females are six times more likely to report Sleep Apnea than males. 
 
 Sleep Disorder Distribution Across Age Groups
 
@@ -66,7 +66,7 @@ Sleep Disorder Distribution Across Age Groups
 
 **Observations**
 
-Individuals aged 46–50 are 20% more likely to experience Sleep Apnea compared to those aged 41–45, who are more prone to Insomnia.
+* Individuals aged 46–50 are 20% more likely to experience Sleep Apnea compared to those aged 41–45, who are more prone to Insomnia.
 
 Blood Pressure Sleep Disorder Relationship
 
@@ -74,7 +74,7 @@ Blood Pressure Sleep Disorder Relationship
 
 **Observations**
 
-We have a clear escalation in sleep disorders as blood pressure rises. Individuals with normal blood pressure show minimal sleep disorders, but once blood pressure enters the hypertensive range, the likelihood of Insomnia and Sleep Apnea spikes dramatically. Notably, at Stage 2 Hypertension (140/95), over 90% of individuals suffer from Sleep Apnea.
+* We have a clear escalation in sleep disorders as blood pressure rises. Individuals with normal blood pressure show minimal sleep disorders, but once blood pressure enters the hypertensive range, the likelihood of Insomnia and Sleep Apnea spikes dramatically. Notably, at Stage 2 Hypertension (140/95), over 90% of individuals suffer from Sleep Apnea.
 
 BMI Category and Sleep Disorder
 
@@ -82,7 +82,7 @@ BMI Category and Sleep Disorder
 
 **Observations**
 
-BMI Category contributes 95% to how one sleeps individuals with a normal BMI face less than a 10% chance of experiencing any sleep disorder
+* BMI Category contributes 95% to how one sleeps individuals with a normal BMI face less than a 10% chance of experiencing any sleep disorder
 
 Sleep Quality and Sleep Disorder Relationship
 
@@ -90,7 +90,7 @@ Sleep Quality and Sleep Disorder Relationship
 
 **Observations**
 
-We observe a 30% increase in the prevalence of Sleep Apnea among individuals with a self-reported sleep quality score of 9. This suggests that even those who perceive their sleep as high-quality may still experience undiagnosed or underlying apnea symptoms, highlighting the importance of clinical sleep assessments.
+* We observe a 30% increase in the prevalence of Sleep Apnea among individuals with a self-reported sleep quality score of 9. This suggests that even those who perceive their sleep as high-quality may still experience undiagnosed or underlying apnea symptoms, highlighting the importance of clinical sleep assessments.
 
 ### Conclusions
 * Females are six times more likely to report Sleep Apnea than males. Generally males get more pre-disposed to Sleep Apnea than females however our data gives us a different analysis.
